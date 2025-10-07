@@ -1,11 +1,8 @@
 {
   "name": "stud-att-manager",
   "version": "1.0.0",
-  "homepage": "https://Sudharsan511.github.io/stud-att-manager",
+  "homepage": "https://Sudharsan511.github.io/students-attendance-manager",
   "private": true,
-  "dependencies": {
-   
-  },
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -13,5 +10,20 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
