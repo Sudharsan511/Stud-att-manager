@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stud-att-manager/static/css/main.1e7e0400.css",
+    "main.js": "/stud-att-manager/static/js/main.0d641005.js",
+    "static/js/453.97b90a09.chunk.js": "/stud-att-manager/static/js/453.97b90a09.chunk.js",
+    "index.html": "/stud-att-manager/index.html",
+    "main.1e7e0400.css.map": "/stud-att-manager/static/css/main.1e7e0400.css.map",
+    "main.0d641005.js.map": "/stud-att-manager/static/js/main.0d641005.js.map",
+    "453.97b90a09.chunk.js.map": "/stud-att-manager/static/js/453.97b90a09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e7e0400.css",
+    "static/js/main.0d641005.js"
+  ]
+}
