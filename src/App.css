@@ -1,0 +1,113 @@
+body {
+  margin: 0;
+  background-color: #0f172a;
+  color: #f1f5f9;
+  font-family: "Poppins", sans-serif;
+}
+
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #38bdf8;
+  margin-bottom: 20px;
+}
+
+.add-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.add-box input {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  width: 200px;
+  outline: none;
+}
+
+.add-box button {
+  padding: 10px 15px;
+  background-color: #38bdf8;
+  border: none;
+  border-radius: 6px;
+  color: #0f172a;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+.controls button {
+  padding: 8px 15px;
+  background-color: #facc15;
+  border: none;
+  border-radius: 6px;
+  color: #0f172a;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  background-color: #1e293b;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+th, td {
+  border: 1px solid #334155;
+  padding: 12px;
+}
+
+th {
+  background-color: #334155;
+}
+
+.present {
+  color: #22c55e;
+  font-weight: bold;
+}
+
+.absent {
+  color: #ef4444;
+  font-weight: bold;
+}
+
+.present-btn {
+  background-color: #22c55e;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.absent-btn {
+  background-color: #ef4444;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 5px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.delete-btn {
+  background-color: #facc15;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
